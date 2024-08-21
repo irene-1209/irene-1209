@@ -6,7 +6,7 @@
 ### Soy una recién graduado en Data Science con una pasión especial por el análisis de datos. Mi formación académica y mi experiencia práctica me han permitido desarrollar una sólida base en el manejo y análisis de datos, así como en la aplicación de técnicas de aprendizaje automático.
 
 ## Habilidades
-### Lenguajes de Programación: Python
+ Lenguajes de Programación: Python
 ### Librerías y Herramientas: Pandas, NumPy, Scikit-learn
 ### Bases de Datos y SQL: Experiencia en la consulta y manipulación de datos en SQL
 ### Machine Learning: Conocimientos en modelos de predicción y clasificación
