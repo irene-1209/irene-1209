@@ -8,18 +8,18 @@
 ## Habilidades
 ### Lenguajes de Programación: Python
 ### Librerías y Herramientas: Pandas, NumPy, Scikit-learn
-###Bases de Datos y SQL: Experiencia en la consulta y manipulación de datos en SQL
+### Bases de Datos y SQL: Experiencia en la consulta y manipulación de datos en SQL
 ### Machine Learning: Conocimientos en modelos de predicción y clasificación
 ### Ingeniería de Datos: Experiencia en el diseño y construcción de pipelines de datos
 ### Proyectos Destacados
+
 ### Proyecto de Ingeniería de Datos
-
-## Descripción: Creación de un pipeline de datos para la extracción, transformación y carga (ETL) de datos de múltiples fuentes. Implementación de técnicas para la # # ### limpieza y normalización de datos.
+### Descripción: Creación de un pipeline de datos para la extracción, transformación y carga (ETL) de datos de múltiples fuentes. Implementación de técnicas para la # ### limpieza y normalización de datos.
 ### Tecnologías Utilizadas: Python, SQL, Pandas
-### Proyecto de Análisis de Datos
 
-## Descripción: Análisis exhaustivo de un conjunto de datos para identificar patrones y tendencias significativas. Creación de visualizaciones interactivas para presentar hallazgos de manera clara.
-##3 Tecnologías Utilizadas: Python, Pandas, Matplotlib, Seaborn
+### Proyecto de Análisis de Datos
+### Descripción: Análisis exhaustivo de un conjunto de datos para identificar patrones y tendencias significativas. Creación de visualizaciones interactivas para presentar hallazgos de manera clara.
+### Tecnologías Utilizadas: Python, Pandas, Matplotlib, Seaborn
 
 ### Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme:
 
