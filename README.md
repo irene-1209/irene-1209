@@ -11,8 +11,8 @@
 ### Bases de Datos y SQL: Experiencia en la consulta y manipulación de datos en SQL
 ### Machine Learning: Conocimientos en modelos de predicción y clasificación
 ### Ingeniería de Datos: Experiencia en el diseño y construcción de pipelines de datos
-### Proyectos Destacados
 
+## Proyectos Destacados
 ### Proyecto de Ingeniería de Datos
 ### Descripción: Creación de un pipeline de datos para la extracción, transformación y carga (ETL) de datos de múltiples fuentes. Implementación de técnicas para la # ### limpieza y normalización de datos.
 ### Tecnologías Utilizadas: Python, SQL, Pandas
