@@ -3,7 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/2be61dcf-b095-47dc-9fe0-bb0c4877557e)
 
-### Soy una recién graduado en Data Science con una pasión especial por el análisis de datos. Mi formación académica y mi experiencia práctica me han permitido desarrollar una sólida base en el manejo y análisis de datos, así como en la aplicación de técnicas de aprendizaje automático.
+### Soy una recién graduada en Data Science con una pasión especial por el análisis de datos. Mi formación académica y mi experiencia práctica me han permitido desarrollar una sólida base en el manejo y análisis de datos, así como en la aplicación de técnicas de aprendizaje automático.
+### Además, tengo estudios universitarios como Técnico Radiólogo, lo que me ha dado una sólida formación en el análisis de datos y atención a los detalles.
+
 
 ## Habilidades
 * Lenguajes de Programación: Python
